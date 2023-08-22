@@ -25,6 +25,27 @@ class Program
         return encryptmessage;
     }
 
+    static string Solver(string encryptedmessage, string key)
+    {
+        string solvedmessage = "";
+
+        for (int i = 0; i < encryptedmessage.Length; i++)
+        {
+            char encryptedletter = encryptedmessage[i];
+            char keyletter = key[i % key.Length];
+
+            int encryptedlettercode = (encryptedletter == ' ') ? 26 : encryptedletter - 'a';
+            int keyCode = (keyletter == ' ') ? 26 : keyletter - 'a';
+
+            int solvedCharCode = (encryptedlettercode - keyCode + 27) % 27;
+            char solvedChar = (solvedCharCode == 26) ? ' ' : (char)(solvedCharCode + 'a');
+
+            solvedmessage += solvedChar;
+        }
+
+        return solvedmessage;
+    }
+
     static void Main(string[] args)
     {
         Console.Write("Kérem adja meg az üzenetet(Csak kisbetüt vagy/és szóközt hasznájon!): ");
@@ -34,6 +55,8 @@ class Program
 
         string encryptmessage = Encrypt(message, key);
         Console.WriteLine("Rejtett üzenet: " + encryptmessage);
-    }
 
+        string solvedmessage = Solver(encryptmessage, key);
+        Console.WriteLine("Megfejtett üzenet: " + solvedmessage);
+    }
 }
