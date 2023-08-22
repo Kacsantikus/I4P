@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programozás\\Munka\\I4P-1\\I4P-1.csproj",
+      "projectUniqueName": "D:\\Programozás\\Munka\\I4P\\I4P-1\\I4P-1.csproj",
       "projectName": "I4P-1",
-      "projectPath": "D:\\Programozás\\Munka\\I4P-1\\I4P-1.csproj",
+      "projectPath": "D:\\Programozás\\Munka\\I4P\\I4P-1\\I4P-1.csproj",
       "packagesPath": "C:\\Users\\Gergő\\.nuget\\packages\\",
-      "outputPath": "D:\\Programozás\\Munka\\I4P-1\\obj\\",
+      "outputPath": "D:\\Programozás\\Munka\\I4P\\I4P-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gergő\\AppData\\Roaming\\NuGet\\NuGet.Config",
