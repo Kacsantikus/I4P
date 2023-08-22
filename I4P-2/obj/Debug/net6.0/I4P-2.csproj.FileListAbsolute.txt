@@ -1,0 +1,14 @@
+D:\Programozás\Munka\I4P\I4P-2\bin\Debug\net6.0\I4P-2.exe
+D:\Programozás\Munka\I4P\I4P-2\bin\Debug\net6.0\I4P-2.deps.json
+D:\Programozás\Munka\I4P\I4P-2\bin\Debug\net6.0\I4P-2.runtimeconfig.json
+D:\Programozás\Munka\I4P\I4P-2\bin\Debug\net6.0\I4P-2.dll
+D:\Programozás\Munka\I4P\I4P-2\bin\Debug\net6.0\I4P-2.pdb
+D:\Programozás\Munka\I4P\I4P-2\obj\Debug\net6.0\I4P-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programozás\Munka\I4P\I4P-2\obj\Debug\net6.0\I4P-2.AssemblyInfoInputs.cache
+D:\Programozás\Munka\I4P\I4P-2\obj\Debug\net6.0\I4P-2.AssemblyInfo.cs
+D:\Programozás\Munka\I4P\I4P-2\obj\Debug\net6.0\I4P-2.csproj.CoreCompileInputs.cache
+D:\Programozás\Munka\I4P\I4P-2\obj\Debug\net6.0\I4P-2.dll
+D:\Programozás\Munka\I4P\I4P-2\obj\Debug\net6.0\refint\I4P-2.dll
+D:\Programozás\Munka\I4P\I4P-2\obj\Debug\net6.0\I4P-2.pdb
+D:\Programozás\Munka\I4P\I4P-2\obj\Debug\net6.0\I4P-2.genruntimeconfig.cache
+D:\Programozás\Munka\I4P\I4P-2\obj\Debug\net6.0\ref\I4P-2.dll
